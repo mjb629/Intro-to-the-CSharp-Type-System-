@@ -1,0 +1,5 @@
+C:\Users\mjb62\source\repos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+C:\Users\mjb62\source\repos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjb62\source\repos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\mjb62\source\repos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfo.cs
+C:\Users\mjb62\source\repos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
